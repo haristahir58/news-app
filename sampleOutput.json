@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "Yorkshire racism hearing - day two set to begin",
+      "description": "Follow live as day two of the Cricket Discipline Commission hearing into racism at Yorkshire CCC gets under way in London, with Michael Vaughan due to give evidence",
+      "url": "http://www.bbc.co.uk/sport/live/cricket/64787521",
+      "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+      "publishedAt": "2023-03-02T09:52:23.8263903Z",
+      "content": "This is the latest chapter in what has become one\r\nof the most damaging and prolonged episodes in the history of English cricket,\r\none that has forced its most successful county - and also the wider … [+1507 chars]"
+    },
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": "James McKern",
+      "title": "‘Diabolical’ scenes as Australia crumble",
+      "description": "<p>Welcome to news.com.au&rsquo;s live coverage of the second day of the third Test from Holkar Cricket Stadium in Indore.</p>",
+      "url": "https://www.news.com.au/sport/cricket/australia-vs-india-third-test-live-india-left-redfaced-over-doctored-pitch/news-story/1561e3b136b50e40ded5b5f7d104343b",
+      "urlToImage": "https://content.api.news/v3/images/bin/5bdd7fd45c84e26fc57f939ea5716d04",
+      "publishedAt": "2023-03-02T05:50:00Z",
+      "content": "Welcome to news.com.au’s live coverage of the second day of the third Test from Holkar Cricket Stadium in Indore.\r\nAustralia hold a commanding position entering the second day after knocking the Indi… [+7455 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
